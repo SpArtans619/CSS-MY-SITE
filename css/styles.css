@@ -1,0 +1,44 @@
+body{
+    margin: 0%;
+    text-align: center;
+}
+
+p{
+    margin: 0 auto;
+position: relative
+;
+left: 20px;
+top: 10px;
+
+}
+h1{
+    margin: 0 auto;
+    position: relative;
+    left: 50px;
+    top: 5px;
+}
+.middle-container{
+    width: 200px;
+    height: 200px;
+    background-color: darkgrey;
+}
+.bottom-container{
+    width: 200px;
+    height: 200px;
+    background-color: lawngreen;
+}
+.top-container{
+    background-color:azure;
+    padding-top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position:absolute;
+    right:500px;
+}
+.mountain{
+    position:relative;
+top: 50px;
+}
